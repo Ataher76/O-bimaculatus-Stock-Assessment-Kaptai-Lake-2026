@@ -27,8 +27,7 @@ This repository hosts the analytical framework and datasets for a baseline stock
 ## **How to Cite**
 Once the manuscript is officially published, please cite it as follows:
 
-> **Ali, A.**, et al. (2026). **Baseline Stock Assessment of the Endangered Silurid Catfish *Ompok bimaculatus* in Kaptai Lake, Bangladesh: An Integrated Length-Based Approach.** [Manuscript Submitted].
-
+> **Nakib, N., Alam, M. S., Islam, M. R., Ali, A., Paran, M. S. (2026). Stock Status of Ompok bimaculatus in Kaptai Lake: A Length-Based Approach for Sustainable Fisheries Management.** [submitted at Aquatic Conservation: Marine and Freshwater]
 ---
 
 ## **Contact**
