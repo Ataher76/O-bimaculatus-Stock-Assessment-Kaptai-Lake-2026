@@ -1,5 +1,8 @@
 # Integrated Length-Based Stock Assessment of *Ompok bimaculatus* in Kaptai Lake
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/1226833832.svg)](https://doi.org/10.5281/zenodo.20030014)
+
 ## **Project Overview**
 This repository hosts the analytical framework and datasets for a baseline stock assessment of *Ompok bimaculatus* (Butter Catfish) in Kaptai Lake, Bangladesh. As an endangered species with high commercial value, this study utilizes integrated length-based models—**LB-SPR** and **aLBI**—to evaluate the sustainability of the stock under current fishing pressures.
 
