@@ -30,7 +30,7 @@ This repository hosts the analytical framework and datasets for a baseline stock
 ## **How to Cite**
 Once the manuscript is officially published, please cite it as follows:
 
-> **Nakib, N., Alam, M. S., Islam, M. R., Ali, A., Paran, M. S. (2026). Stock Status of Ompok bimaculatus in Kaptai Lake: A Length-Based Approach for Sustainable Fisheries Management.** [submitted at Aquatic Conservation: Marine and Freshwater]
+> **Nakib, N., Alam, M. S., Islam, M. R., Ali, A., Paran, M. S. (2026). Stock Status of Ompok bimaculatus in Kaptai Lake: A Length-Based Approach for Sustainable Fisheries Management.** [submitted at Fisheries Management and Ecology]
 ---
 
 ## **Contact**
